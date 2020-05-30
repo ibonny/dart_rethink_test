@@ -1,0 +1,4 @@
+name: dart_rethink_test
+
+dependencies:
+  rethinkdb_dart: ^2.3.2+6
